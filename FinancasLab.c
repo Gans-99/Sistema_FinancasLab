@@ -1,10 +1,4 @@
-
-/*
-                                TRABALHO DE LABORATÓRIO DE PROGRAMAÇÃO
-      INTEGRANTES: Alexsandro Martins, Ciro Coimbra, Jeiel Lucas, Mahatma Gandhi e Rogério Pio
-*/
-
-#include <stdbool.h>
+include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -837,3 +831,4 @@ int main(){
   
 
 }
+
