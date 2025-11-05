@@ -591,7 +591,7 @@ int telaInicial(char usuario[SIZE]){
   int opcao;
   
   printf("\n\n====MINHAS FINANCAS====\n");
-  printf("Bem vinde, %s\n", usuario);
+  printf("Bem vindo(a), %s\n", usuario);
   printf("(1)Registrar receita/despesa\n");
   printf("(2)Controle de orcamento\n");
   printf("(3)Gerar relatorio\n");
@@ -835,4 +835,5 @@ int main(){
   }
   exit(0);
   
+
 }
