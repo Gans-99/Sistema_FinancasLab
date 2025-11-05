@@ -1,6 +1,6 @@
 # 💰 FinançasLab — Sistema de Controle Financeiro em C
 
-Trabalho desenvolvido para a disciplina **Laboratório de Programação**, com o objetivo de implementar um sistema de controle financeiro em linguagem C, aplicando os conceitos de manipulação de arquivos, modularização e CRUD.
+Projeto desenvolvido para a disciplina **Laboratório de Programação**, com o objetivo de implementar um sistema de controle financeiro em linguagem C, aplicando os conceitos de manipulação de arquivos, modularização e CRUD.
 
 ---
 
